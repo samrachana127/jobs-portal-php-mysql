@@ -1,0 +1,10 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Uploaded CVs (user data, not project code)
+websites/jobs/public/cvs/*
+!websites/jobs/public/cvs/.gitkeep
+
+# Docker/DB local data
+mysqldata/
